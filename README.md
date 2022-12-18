@@ -8,3 +8,16 @@ Moreover, as you power through your work sessions, you earn pixel points that al
 
 ## Try the demo
 Visit the vercel link (at the git description part) for a deployed demo for this site
+
+## Example features
+#### Start a new work session
+![Home](/images/work.png)
+
+#### Browse productivity feed
+![Home](/images/feed.png)
+
+#### Browse gallery
+![Home](/images/gallery.png)
+
+#### Send and receive real-time friend requests
+![Home](/images/friendRequest.png)
