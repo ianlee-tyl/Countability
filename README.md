@@ -1,4 +1,4 @@
-# Countability Frontend
+# Countability
 
 Congrats, you've completed the Countability backend! Now it's time to make an interface that your users will be able to interact with in A6: Countability frontend. **Make sure to read this document fully** as well, as it contains a lot of A6-specific info!
 
