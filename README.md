@@ -21,6 +21,3 @@ Visit the vercel link (at the git description part) for a deployed demo for this
 
 #### Browse gallery
 ![Home](/images/gallery.png)
-
-#### Send and receive real-time friend requests
-![Home](/images/friendRequest.png)
