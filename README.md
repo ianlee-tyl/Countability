@@ -12,12 +12,3 @@ Visit the vercel link (at the git description part) for a deployed demo for this
 ## Example features
 #### Browse productivity feed
 ![Home](/images/feed_.png)
-
-#### Start a new work session
-![Home](/images/work.png)
-
-#### Make creative productivity art using earned points
-![Home](/images/draw.png)
-
-#### Browse gallery
-![Home](/images/gallery.png)
